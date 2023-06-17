@@ -28,6 +28,7 @@ public class Q10_0614 {
             answer += cnt%2 == 0 ? ss.toLowerCase() : ss.toUpperCase();
         }
 
+        System.out.println(Arrays.toString(array));
       /*  //각 단어 담을 문자열
         String a ="";
         //length : array 길이 / size : arraylist크기 / length() : 문자열 길이
